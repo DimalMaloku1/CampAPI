@@ -1,12 +1,12 @@
-Here's a draft for a README file for the Jungle Jamboree API project:
+Here's a draft for a README file for the CAMP API project:
 
 ---
 
-# Jungle Jamboree API
+# Camp API
 
 ## Overview
 
-Jungle Jamboree API is a robust backend service designed to manage various aspects of a jungle-themed application. It leverages modern technologies and architectural patterns to ensure scalability, maintainability, and security.
+Camp API is a robust backend service designed to manage various aspects of a camp-themed application. It leverages modern technologies and architectural patterns to ensure scalability, maintainability, and security.
 
 ## Key Features
 
