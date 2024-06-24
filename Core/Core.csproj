@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Config\**" />
+    <EmbeddedResource Remove="Config\**" />
+    <None Remove="Config\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.30" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.30" />
+  </ItemGroup>
+
+</Project>
