@@ -17,8 +17,7 @@ Camp API is a robust backend service designed to manage various aspects of a cam
   - **Database**: Entity Framework Core with SQL Server
 - **Authentication**: Identity and JWT
 - **Caching**: Redis integration for optimized performance.
-- **PaymentGateway**: stripe integration .
-- 
+- **PaymentGateway**: stripe integration.
 
 ## Project Structure
 
